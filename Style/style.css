@@ -1,0 +1,67 @@
+html, body {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    font-size: 20px;
+    overflow: auto;
+}
+
+#get-started {
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-weight: bolder;
+}
+
+#get-started h1 {
+    margin: 0;
+}
+
+#get-started a {
+    margin: 0;
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: black;
+}
+
+#get-started a:link {
+    color: black;
+}
+
+#ibfs #inputs form {
+    margin: 0 5% 0 5%;
+}
+
+#ibfs #inputs #demand-supply-btn {
+    position: absolute;
+    left: 16%;
+}
+#optimization-table1 td{
+    border: 1px solid black;
+    padding: 0;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    text-align: center;
+}
+#optimization-table1 th{
+    text-align: center;
+    width: 60px;
+    height: 40px;
+}
+#optimization-table1 .top-left-value {
+    position: absolute;
+    top: 0;
+    left: 2px;
+    font-size: 14px;
+}
+#optimization-table1 .main-value {
+    font-size: 18px;
+    line-height: 60px;
+}
+#optimization-table1 .noborder{
+    border: none;
+}
