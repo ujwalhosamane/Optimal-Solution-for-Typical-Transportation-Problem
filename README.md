@@ -5,3 +5,20 @@
 
 
 Another aspect of the project is its emphasis on usability and this is done by featuring symbols and signs, error handling mechanisms, and charts and graphs for the transportation table and solution. The overall goal of this mini-project is to proffer an effective and practical solution to distribution issues. By doing this, we will be contributing to the field; our solution will be reflective of a practical and efficient approach to transportation.
+
+
+## Result Screenshots
+
+![Result 1](https://github.com/ujwalhosamane/Random-Resources/blob/main/Optimal%20Solution%20for%20Typical%20Transportation%20Problem/Result%20(1).png?raw=true)
+
+![Result 2](https://github.com/ujwalhosamane/Random-Resources/blob/main/Optimal%20Solution%20for%20Typical%20Transportation%20Problem/Result%20(2).png?raw=true)
+
+![Result 3](https://github.com/ujwalhosamane/Random-Resources/blob/main/Optimal%20Solution%20for%20Typical%20Transportation%20Problem/Result%20(3).png?raw=true)
+
+![Result 4](https://github.com/ujwalhosamane/Random-Resources/blob/main/Optimal%20Solution%20for%20Typical%20Transportation%20Problem/Result%20(4).png?raw=true)
+
+![Result 5](https://github.com/ujwalhosamane/Random-Resources/blob/main/Optimal%20Solution%20for%20Typical%20Transportation%20Problem/Result%20(5).png?raw=true)
+
+![Result 6](https://github.com/ujwalhosamane/Random-Resources/blob/main/Optimal%20Solution%20for%20Typical%20Transportation%20Problem/Result%20(6).png?raw=true)
+
+![Result 7](https://github.com/ujwalhosamane/Random-Resources/blob/main/Optimal%20Solution%20for%20Typical%20Transportation%20Problem/Result%20(7).png?raw=true)
